@@ -42,7 +42,7 @@
 	url = https://github.com/littlevgl/lvgl.git
 [submodule "lvgl/lv_drivers"]
 	path = lvgl/lv_drivers
-	url = https://github.com/littlevgl/lv_drivers.git
+	url = https://github.com/deanlinok/lv_drivers.git
 [submodule "lvgl/lv_examples"]
 	path = lvgl/lv_examples
 	url = https://github.com/littlevgl/lv_examples.git
